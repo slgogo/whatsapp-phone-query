@@ -15,7 +15,7 @@
 
 ## 🚀 在线使用
 
-访问：https://你的域名.vercel.app
+访问：https://whatsapp-phone-query.vercel.app/
 
 ## 🛠️ 技术栈
 
